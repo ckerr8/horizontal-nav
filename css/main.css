@@ -10,12 +10,13 @@ html {
 
 .box {
   background-color: #79756f;
-  border: 3px solid #595652;
-  padding: 0% 50% 0% 50%
+  border: solid #595652;
+  margin: .3em;
+  padding: .6em .5em .75em;
 }
 
 div {
-
+text-align: center;
 
 }
 h1 {
@@ -26,8 +27,6 @@ h1 {
 
 .nav {
   display: inline-block;
-  margin: 0;
-  padding: 0;
   list-style-type: none;
   font-family: sans-serif;
   text-align: center;
@@ -43,9 +42,6 @@ h1 {
 }
 
 .nav a {
-  padding: .6em,.5em,.75em;
-  background-color: #713837;
-  border-radius: 5px;
   color: #fff;
   text-decoration: none;
 }
