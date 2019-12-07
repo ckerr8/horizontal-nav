@@ -41,6 +41,6 @@ h1 {
   border-radius: 5px;
 }
 
-li a:hover {
+li:hover {
   background-color: #f33;
 }
